@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sathyabaarathisr
 - 👀 I’m interested in using highthroughput cellular and molecualr data to understand host response to infection and vaccines.
-- 🌱 I’m currently learning single cell data analysus
+- 🌱 I’m currently learning single cell data analysis
 - 💞️ I’m looking to collaborate on graph theory
 - 📫 How to reach me sathya.ravi@jax.org
 
